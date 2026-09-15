@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /onboarding
+Disallow: /chats
+Disallow: /profile
+Disallow: /filter
+Disallow: /settings
+
+Sitemap: https://dateroulette.online/sitemap.xml
